@@ -14,13 +14,21 @@
 <div align="center">
   <h2>🏆 Trophy Case & Achievements</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rajj-c&theme=tokyonight&margin-w=15&row=1&column=6" alt="Rajj-c's Trophies" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Rajj-c&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Rajj-c&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=6">
+      <img src="https://github-profile-trophy.vercel.app/?username=Rajj-c&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Rajj-c's Trophies" />
+    </picture>
   </a>
   <br/>
   <br/>
   <p>🚀 <b>Proud Winner of Smart India Hackathon (SIH) 2025</b> with my project <b>Edupath Navigator</b>.</p>
   <a href="https://github.com/Rajj-c/SIH-FINAL-IMPS">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rajj-c&repo=SIH-FINAL-IMPS&theme=tokyonight&show_icons=true" alt="Edupath Navigator - SIH 2025 Winning Project"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rajj-c&repo=SIH-FINAL-IMPS&theme=tokyonight&show_icons=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rajj-c&repo=SIH-FINAL-IMPS&theme=default&show_icons=true">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rajj-c&repo=SIH-FINAL-IMPS&theme=default&show_icons=true" alt="Edupath Navigator - SIH 2025 Winning Project"/>
+    </picture>
   </a>
 </div>
 
@@ -46,7 +54,11 @@
 <div align="center">
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,nodejs,express,mongodb,gcp,docker,git,github&perline=12" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,nodejs,express,mongodb,gcp,docker,git,github&perline=12&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,nodejs,express,mongodb,gcp,docker,git,github&perline=12&theme=light">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,nodejs,express,mongodb,gcp,docker,git,github&perline=12&theme=light" />
+    </picture>
   </a>
 </div>
 
@@ -57,15 +69,23 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajj-c/Rajj-c/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajj-c/Rajj-c/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rajj-c/Rajj-c/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rajj-c/Rajj-c/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajj-c&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajj-c&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajj-c&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajj-c&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajj-c&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Rajj-c&theme=tokyonight&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Rajj-c&theme=default&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajj-c&theme=default&hide_border=false" alt="GitHub Streak" width="48%"/>
+  </picture>
 </div>
 
 <br/>
