@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hi,%20I%20am%20Raj&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20SIH%202025%20Winner&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cinematic Header GIF" />
 </div>
 
 <div align="center">
