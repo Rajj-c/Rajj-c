@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Raj%20👋&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20SIH%202025%20Winner&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hi,%20I%20am%20Raj&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20SIH%202025%20Winner&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
   <p>I'm incredibly proud to have won SIH 2025 with my project <b>Edupath Navigator</b>! Check out the winning repository below:</p>
   <br/>
   <a href="https://github.com/Rajj-c/SIH-FINAL-IMPS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajj-c&repo=SIH-FINAL-IMPS&theme=tokyonight&show_icons=true" alt="Edupath Navigator - SIH 2025 Winning Project"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rajj-c&repo=SIH-FINAL-IMPS&theme=tokyonight&show_icons=true" alt="Edupath Navigator - SIH 2025 Winning Project"/>
   </a>
 </div>
 
@@ -45,12 +45,12 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajj-c&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajj-c&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajj-c&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajj-c&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rajj-c&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%"/>
 </div>
 
 ---
