@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cinematic Header GIF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hi,%20I%20am%20Raj&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20SIH%202025%20Winner&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&colorAlt=FF003C&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications+for+social+impact;Transforming+ideas+into+magic+through+code;Smart+India+Hackathon+2025+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications+for+social+impact;Transforming+ideas+into+magic+through+code;Smart+India+Hackathon+2025+Winner+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,13 +14,13 @@
 <div align="center">
   <h2>🏆 Trophy Case & Achievements</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rajj-c&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="Rajj-c's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Rajj-c&theme=tokyonight&margin-w=15&row=1&column=6" alt="Rajj-c's Trophies" />
   </a>
   <br/>
   <br/>
   <p>🚀 <b>Proud Winner of Smart India Hackathon (SIH) 2025</b> with my project <b>Edupath Navigator</b>.</p>
   <a href="https://github.com/Rajj-c/SIH-FINAL-IMPS">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rajj-c&repo=SIH-FINAL-IMPS&theme=radical&show_icons=true" alt="Edupath Navigator - SIH 2025 Winning Project"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rajj-c&repo=SIH-FINAL-IMPS&theme=tokyonight&show_icons=true" alt="Edupath Navigator - SIH 2025 Winning Project"/>
   </a>
 </div>
 
@@ -64,8 +64,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajj-c&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajj-c&theme=radical&hide_border=false" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rajj-c&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajj-c&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%"/>
 </div>
 
 <br/>
